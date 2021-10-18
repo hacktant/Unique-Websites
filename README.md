@@ -27,4 +27,5 @@
 
 ## 4. [GARY](https://www.garylemasson.com/en)
 ![image](https://user-images.githubusercontent.com/92724692/137727003-a938fc52-8d8d-48cf-a4fb-5104b2921363.png)
-![image](https://user-images.githubusercontent.com/92724692/137727030-93c51f46-74f6-4abc-a06a-87e8dff8e93b.png)
+![image](https://user-images.githubusercontent.com/92724692/137727520-110c36bb-aef2-4136-a5c1-68aaa6dfbaeb.png)
+
